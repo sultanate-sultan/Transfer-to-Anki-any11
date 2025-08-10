@@ -1,0 +1,4 @@
+pyperclip
+requests
+Pillow
+pywin32
