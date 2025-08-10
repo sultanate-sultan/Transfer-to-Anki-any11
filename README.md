@@ -1,6 +1,7 @@
 # Anki Note Creator
 
 This is a simple desktop application for Windows that allows you to quickly create new notes in your Anki decks directly from your clipboard content, including rich text formatting and images.
+
 **_The beautiful anki formatting you are seeing in the last example is because I have applied custom styling. Check it out here: https://www.reddit.com/r/Anki/comments/1mlnbaw/default_anki_looks_boring_and_out_of_date_apply/_**
 
 ---
