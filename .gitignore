@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Project-specific files you don't want to share
+anki_decks.pkl
